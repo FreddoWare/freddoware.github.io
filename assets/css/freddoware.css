@@ -106,6 +106,10 @@ a:hover {
   .side-gif {
     display: none;
   }
+
+  .schedule {
+    display: none;
+  }
 }
 
 /* Desktop Styles */
@@ -168,5 +172,10 @@ a:hover {
   .side-gif img {
     width: 320px;
     height: auto;
+  }
+
+  .schedule {
+    display: block;
+    width: 100%;
   }
 }
